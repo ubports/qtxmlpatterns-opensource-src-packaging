@@ -1,4 +1,42 @@
-qtxmlpatterns-opensource-src (5.9.1+ubports) xenial; urgency=medium
+qtxmlpatterns-opensource-src (5.9.3-0ubports2) xenial; urgency=medium
+
+  * Build for xenial 
+
+ -- Marius <mariogrip@ubuntu.com>  Fri, 23 Feb 2018 02:05:22 +0100
+
+qtxmlpatterns-opensource-src (5.9.3-0ubuntu1) bionic; urgency=medium
+
+  * New upstream release.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Thu, 30 Nov 2017 17:57:35 -0600
+
+qtxmlpatterns-opensource-src (5.9.2-3) unstable; urgency=medium
+
+  * Really upload to unstable.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Thu, 26 Oct 2017 23:34:51 +0300
+
+qtxmlpatterns-opensource-src (5.9.2-2) experimental; urgency=medium
+
+  * Update for Qt binaries location change in qtbase 5.9.2+dfsg-3.
+    - Install tools in qtxmlpatterns5-dev-tools to the new location.
+    - Provide compatibility symlinks for the old location.
+    - Bump qtbase5-private-dev and qttools5-dev-tools build-dependencies.
+  * Upload to unstable.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Thu, 26 Oct 2017 16:41:53 +0300
+
+qtxmlpatterns-opensource-src (5.9.2-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Minor debian/copyright updates.
+  * Bump Qt build-dependencies to 5.9.2.
+  * Bump Standards-Version to 4.1.1, stop using deprecated Priority: extra.
+  * Use debhelper compat level 10 and dh_missing.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Sun, 15 Oct 2017 00:08:19 +0300
+
+qtxmlpatterns-opensource-src (5.9.1-2) unstable; urgency=medium
 
   * Upload to unstable.
 
