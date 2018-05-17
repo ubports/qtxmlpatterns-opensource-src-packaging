@@ -1,8 +1,20 @@
-qtxmlpatterns-opensource-src (5.9.3-0ubports2) xenial; urgency=medium
+qtxmlpatterns-opensource-src (5.9.5-0ubports1) xenial; urgency=medium
 
-  * Build for xenial 
+  * New upstream release.
 
- -- Marius <mariogrip@ubuntu.com>  Fri, 23 Feb 2018 02:05:22 +0100
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sun, 15 Apr 2018 20:52:46 -0500
+
+qtxmlpatterns-opensource-src (5.9.4-0ubuntu2) bionic; urgency=medium
+
+  * No-change rebuild against qtbase-abi-5-9-4.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sun, 18 Feb 2018 13:55:16 -0600
+
+qtxmlpatterns-opensource-src (5.9.4-0ubuntu1) bionic; urgency=medium
+
+  * New upstream release.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Tue, 13 Feb 2018 20:27:37 -0600
 
 qtxmlpatterns-opensource-src (5.9.3-0ubuntu1) bionic; urgency=medium
 
